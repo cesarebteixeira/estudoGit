@@ -1,4 +1,4 @@
-Gerenciadoe de pacote
+Gerenciadoe de pacote teste git
 win > chocolstey
 instal node e yarm  >> se vc quiser desenvolver react native
 choco install yarm
