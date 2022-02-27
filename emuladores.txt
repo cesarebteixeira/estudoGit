@@ -1,0 +1,19 @@
+Gerenciadoe de pacote
+win > chocolstey
+instal node e yarm  >> se vc quiser desenvolver react native
+choco install yarm
+
+Variaveis d ambientes > que ser]ao acessiveis para todo o sistema
+emuladoer  > com play storre > nexux 5	
+o nome do emulador  > nexus28 ... é o modelo do emulador e a api
+
+Na opção Show advanced  > vc infora a mem´pria e outros parâmetros
+
+Para executar o emulador por linha de comando >emulator @nexus28
+Para sair o emulados ALT + F4
+
+Para IOS eu preciso de uma máqquina aple para pode simular um aparaelgho com sistema IOS
+usar xcode > vai instalar todos os emuladores do IOS
+
+No menu Hardware>device ... vc já consegue ver os emulatores disponíveis
+vai ocupar ums 20G e para instalar vai levar no mínom em 3 horas
